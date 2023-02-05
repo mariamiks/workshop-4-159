@@ -1,0 +1,250 @@
+@font-face {
+    font-family: poppinsRegular;
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Dancing Script', cursive;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+header{
+    background-color: #929090;
+    width: 1600px;
+    height: 150px;
+     padding: 58px 66px;
+
+}
+header nav{ margin-left: 46px;
+  
+}
+
+header ul a{
+    color: #000000;
+    font-size: 18px;
+    font-weight:normal;
+   
+
+}
+header ul li{
+    float: left;
+    margin-right: 20px;
+}
+/* header nav ul li a{
+
+}
+header nav a{
+
+}
+header a{
+
+} */
+/* .martkutxedi{
+    width: 200px;
+    height: 50px;
+    margin: 20px;
+    background-color: #000000;
+}
+.mart{
+    padding: 30px;
+    box-sizing: border-box;
+} */
+
+.text{
+    width: 400px;
+    padding: 30px;
+    background-color: #7ea7ff;
+    margin: 30px auto;
+    height: 400px;
+    overflow-y: scroll;
+    text-align: justify;
+    font-size: 26px;
+    font-family: 'Anton', sans-serif;
+    float: left;
+    margin-right: 50px;
+}
+.slaideri{
+    width: 1600px;
+    height: 400px;
+    background-color: #1b1c1e;
+    overflow: hidden;
+}
+.slaideri img{
+    width: 100%;
+}
+
+
+.newtext{
+    font-size: 22px;
+    background-color: #fdf9fd;
+    padding: 40px;
+    clear: left;
+}
+.newfont{
+    font-family: poppinsRegular;
+}
+@font-face {
+    font-family: glaho;
+    src: url(../fonts/bpg_glaho.ttf);
+}
+.qartuli{
+    width: 900px;
+    font-family: glaho;
+    font-weight: bolder;
+}
+
+article{
+    width: 33.33%;
+    background-color: #fa9507;
+    padding-bottom: 20px;
+    color: #000000;
+    float: left;
+    margin-top: 34px;
+    margin-bottom: 94px;
+    
+    
+    
+}
+
+.meorest{
+    background-color: #fdca02;
+}
+.mesamest{
+    background-color: #ffea2f;
+}
+article .surati{
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+}
+article .surati img{
+    width: 100%;
+}
+article h2{
+    margin: 12px
+}
+article p{
+    padding-left: 12px;
+    
+}
+.link{
+    text-align: left;
+}
+.link a{
+    color: #aea30e;
+    
+}
+.link a span{
+    font-size: 20px;
+}
+.statiatext{
+    height: 100px;
+    overflow: hidden;
+}
+/* .pirvelistatia{
+    background-color: #5d0064;
+    color: #fddcff;
+}
+.st2{
+    background-color: #c900d7; */
+
+.pirveli{
+  background-color: #fa9507;
+  margin-left: 38px;
+  margin-bottom: 92px;
+}
+ .sat1{
+  padding-top: 56px;
+  padding-left: 10px;
+ }
+
+ .text1{ 
+  padding-left: 10px;
+  padding-bottom: 36px;
+
+ }
+.pirvelistatia .link{
+    text-align: left;
+    margin-left: 38px;
+}
+.statiainnersurati{
+    width: 33.33%;
+    height: 200px;
+    overflow: hidden;
+    float: left;
+   
+}
+.statiainnersurati img{
+    width: 100%;
+   
+  
+}
+
+
+.meore{
+  background-color: #fdca02;
+  margin-left: 38px;
+  margin-bottom: 92px;
+
+
+}
+
+h2{
+  height: 200px;
+  
+}
+
+.sat2{
+  padding-top: 56px;
+  padding-left: 10px;
+}
+.txt2{
+  padding-left: 10px;
+  padding-bottom: 36px;
+}
+
+.mesame{ 
+  background-color: #ffea2f;
+  margin-left: 38px;
+  margin-bottom: 92px;
+
+}
+.sat3{
+  padding-top: 56px;
+  padding-left: 10px;
+}
+.txt3{
+  padding-left: 10px;
+  padding-bottom: 36px;
+
+}
+
+
+/* .menu{
+    clear: left;
+}
+.menu ol{
+    width: 300px;
+    padding-left: 30px;
+    text-align: center;
+    background-color: #f67eff;
+    margin: 100px auto;
+    
+}
+.menu ol li{
+    list-style-type:decimal;
+}
+.menu ol a{
+    font-size: 22px;
+    color: #5d0064;
+  
+} */
+footer img{
+  width: 12px;
+  float: left;
+  margin-left: 38px;
+  margin-bottom: 30px;
+}
